@@ -1,0 +1,4 @@
+; the update url enpoint
+update_endpoint = http://freedns.afraid.org/dynamic/update.php
+;update_every = 900000
+update_every = 2000
